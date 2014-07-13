@@ -1,0 +1,3 @@
+[submodule "md-dashing-theme"]
+	path = md-dashing-theme
+	url = git@github.com:designerJordan/md-dashing-theme.git
