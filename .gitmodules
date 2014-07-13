@@ -7,3 +7,6 @@
 [submodule "Clearness-Dark-Plus"]
 	path = Clearness-Dark-Plus
 	url = git@github.com:Staudi/Clearness-Dark-Plus.git
+[submodule "byword-for-mou"]
+	path = byword-for-mou
+	url = git@github.com:kvanlierop/byword-for-mou.git
