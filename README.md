@@ -11,6 +11,7 @@ Collection of themes for LightPaper.
     git clone git@github.com:ashokgelal/LightPaperThemes.git
 	
 2. Get all the themes as submodules and update:
+
     git submodule init && git submodule update
     
-3. Go to LightPaper > Preferences ... and select a theme.
+3. Go to `LightPaper > Preferences` ... and select a theme.
