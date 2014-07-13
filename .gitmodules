@@ -22,3 +22,6 @@
 [submodule "mou-theme-github2"]
 	path = mou-theme-github2
 	url = git@github.com:gcollazo/mou-theme-github2.git
+[submodule "mou"]
+	path = mou
+	url = git@github.com:jessemutz/mou.git
