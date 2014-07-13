@@ -13,3 +13,6 @@
 [submodule "kublai-mou"]
 	path = kublai-mou
 	url = git@github.com:moizk/kublai-mou.git
+[submodule "Verona"]
+	path = Verona
+	url = git@github.com:ClockworkEngine/Verona.git
