@@ -19,3 +19,6 @@
 [submodule "mou-theme-solarized"]
 	path = mou-theme-solarized
 	url = git@github.com:CodeCatalyst/mou-theme-solarized.git
+[submodule "mou-theme-github2"]
+	path = mou-theme-github2
+	url = git@github.com:gcollazo/mou-theme-github2.git
