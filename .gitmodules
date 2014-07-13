@@ -25,3 +25,6 @@
 [submodule "mou"]
 	path = mou
 	url = git@github.com:jessemutz/mou.git
+[submodule "swizzle"]
+	path = swizzle
+	url = git@github.com:chrissimpkins/swizzle.git
