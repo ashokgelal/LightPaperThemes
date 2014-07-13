@@ -34,3 +34,6 @@
 [submodule "mou-theme-flatland"]
 	path = mou-theme-flatland
 	url = git@github.com:Kikobeats/mou-theme-flatland.git
+[submodule "PrintPretty"]
+	path = PrintPretty
+	url = git@github.com:a1ee9b/PrintPretty.git
