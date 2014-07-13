@@ -16,3 +16,6 @@
 [submodule "Verona"]
 	path = Verona
 	url = git@github.com:ClockworkEngine/Verona.git
+[submodule "mou-theme-solarized"]
+	path = mou-theme-solarized
+	url = git@github.com:CodeCatalyst/mou-theme-solarized.git
