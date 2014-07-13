@@ -31,3 +31,6 @@
 [submodule "snowball"]
 	path = snowball
 	url = git@github.com:chrissimpkins/snowball.git
+[submodule "mou-theme-flatland"]
+	path = mou-theme-flatland
+	url = git@github.com:Kikobeats/mou-theme-flatland.git
