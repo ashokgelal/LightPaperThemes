@@ -1,3 +1,6 @@
 [submodule "md-dashing-theme"]
 	path = md-dashing-theme
 	url = git@github.com:designerJordan/md-dashing-theme.git
+[submodule "Mou-Theme"]
+	path = Mou-Theme
+	url = git@github.com:hzlzh/Mou-Theme.git
