@@ -28,3 +28,6 @@
 [submodule "swizzle"]
 	path = swizzle
 	url = git@github.com:chrissimpkins/swizzle.git
+[submodule "snowball"]
+	path = snowball
+	url = git@github.com:chrissimpkins/snowball.git
