@@ -10,3 +10,6 @@
 [submodule "byword-for-mou"]
 	path = byword-for-mou
 	url = git@github.com:kvanlierop/byword-for-mou.git
+[submodule "kublai-mou"]
+	path = kublai-mou
+	url = git@github.com:moizk/kublai-mou.git
