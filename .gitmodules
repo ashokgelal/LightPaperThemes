@@ -4,3 +4,6 @@
 [submodule "Mou-Theme"]
 	path = Mou-Theme
 	url = git@github.com:hzlzh/Mou-Theme.git
+[submodule "Clearness-Dark-Plus"]
+	path = Clearness-Dark-Plus
+	url = git@github.com:Staudi/Clearness-Dark-Plus.git
